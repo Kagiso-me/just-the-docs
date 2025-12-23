@@ -13,4 +13,3 @@ Immich is a high-performance, self-hosted photo management solution.
 ```bash
 helm install immich kagiso/immich
 ```
----
