@@ -1,5 +1,3 @@
-```md
----
 title: Immich
 parent: Charts
 nav_order: 2

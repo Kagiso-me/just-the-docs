@@ -1,5 +1,3 @@
-```md
----
 title: Nextcloud
 parent: Charts
 nav_order: 1
