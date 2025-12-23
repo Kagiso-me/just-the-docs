@@ -1,3 +1,4 @@
+---
 title: Immich
 parent: Charts
 nav_order: 2
@@ -12,3 +13,4 @@ Immich is a high-performance, self-hosted photo management solution.
 ```bash
 helm install immich kagiso/immich
 ```
+---
