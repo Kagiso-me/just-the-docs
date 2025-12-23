@@ -1,4 +1,3 @@
-```md
 ---
 title: Install Guides
 parent: Guides
